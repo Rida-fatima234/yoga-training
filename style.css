@@ -1,0 +1,20 @@
+/* .parent{
+    background-color:pink;
+    margin-top: 20px;
+}
+.foot{
+    background-color:beige;
+} */
+body{
+    background-color:#d0bdf4;
+    width: 100%;
+}
+.margine{
+    margin-left: 10px;
+}
+.ff{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.fn{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
